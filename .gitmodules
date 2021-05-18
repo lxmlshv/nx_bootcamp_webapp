@@ -1,0 +1,3 @@
+[submodule "src/dogheadedtree/themes/zen"]
+	path = src/dogheadedtree/themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
