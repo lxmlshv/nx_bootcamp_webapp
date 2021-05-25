@@ -12,5 +12,5 @@ Homework #2: Git, Docker, and Static Site Generators
 Скрипт для сборки сайта и создания образа вебсервера.
 ### docker_run.sh
 Скрипт для запуска контейнера вебсервера. Для просмотра сайте перейдите на [localhost](http://localhost)
-### docker_run.sh
+### docker_stop.sh
 Скрипт для остановки вебсервера.
